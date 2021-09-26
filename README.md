@@ -29,5 +29,3 @@ A simple responsive html-css survey form
 - [x]  text
 - [x]  url
 - [x]  week
-## Screenshots
-![Alt text](/preview/ddkoeji.jpg?raw=true "preview")  
