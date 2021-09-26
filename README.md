@@ -30,6 +30,6 @@ A simple responsive html-css survey form
 - [x]  url
 - [x]  week
 
-## images in readme
+## Preview
 
 ![](preview/ddkoeji.JPG)
