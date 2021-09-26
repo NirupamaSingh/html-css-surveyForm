@@ -29,3 +29,7 @@ A simple responsive html-css survey form
 - [x]  text
 - [x]  url
 - [x]  week
+
+## images in readme
+
+![](preview/ddkoeji.JPG)
